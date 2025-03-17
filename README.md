@@ -8,7 +8,7 @@ My name is Andrew Ungureanu
 <a href="https://www.linkedin.com/in/andrew-razvan-ungureanu-22b7402aa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
+<br />
 I am a Software Engineer student at Concordia University passionate about Tech
 <br />
 <br />
