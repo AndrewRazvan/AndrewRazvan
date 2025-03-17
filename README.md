@@ -12,8 +12,6 @@ My name is Andrew Ungureanu
 I am a Software Engineer student at Concordia University passionate about Tech
 <br />
 <br />
-I'm based in **[Montreal, Canada](https://www.google.com/maps/dir/''/Montreal,+QC/@45.6587584,-74.2231385,83355m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x4cc91a541c64b70d:0x654e3138211fefef!2m2!1d-73.5673919!2d45.5018869!1m5!1m1!1s0x4cc91a541c64b70d:0x654e3138211fefef!2m2!1d-73.5673919!2d45.5018869!3e3?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)**
-
 
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewRazvan&layout=compact&theme=dark&bg_color=0A0A0A)
